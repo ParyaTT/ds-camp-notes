@@ -19,3 +19,4 @@
 - `git clone <ssh code from github>`: Create a local copy of the repository 
 - `git switch main`: Switch to branch 'main'
 - `git switch -c <branch name>`: Create a new branch
+- `git branch`: Tell which branch you are on (This is something I found out making these notes)
